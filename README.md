@@ -4,11 +4,9 @@ I'm a Informatik Engineering graduate currently doing a Master's degree from Hoc
 
 #### 🚀 **What I Do**
 
-- **XR Unity Developer**: Currently engaged in the research project "Inspirer" at Centis HTW, Berlin, where I develop augmented reality applications and interfaces using C# and the Unity Engine, enhancing user interactions and efficiency.
-- **Inspirer Website**: [Inspirer](https://projekt-inspirer.de/)
+- **XR Unity Developer**: Currently engaged in the research project "Inspirer" at Centis HTW, Berlin, where I develop augmented reality applications and interfaces using C# and the Unity Engine, enhancing user interactions and efficiency. **Inspirer Website**: [Inspirer](https://projekt-inspirer.de/)
   
-- **Web Application Developer**: Previously worked on the "SparePartAssist & RecoStation" project at Hochschule für Technik und Wirtschaft, Berlin, crafting web applications with Node.js and ReactJS, and championing Agile and Scrum methodologies to boost productivity.
-- **Sparepartassist Website*: [Sparepartassist](https://sparepartassist.f2.htw-berlin.de/)
+- **Web Application Developer**: Previously worked on the "SparePartAssist & RecoStation" project at Hochschule für Technik und Wirtschaft, Berlin, crafting web applications with Node.js and ReactJS, and championing Agile and Scrum methodologies to boost productivity.**Sparepartassist Website*: [Sparepartassist](https://sparepartassist.f2.htw-berlin.de/)
 
 - **SAP Development Intern**: Assisted in the development and implementation of SAP solutions at Regiocom SE, Berlin, focusing on optimizing document management processes.
 
