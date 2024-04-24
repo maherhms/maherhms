@@ -16,9 +16,12 @@ I'm a Informatik Engineering graduate currently doing a Master's degree from Hoc
 - **Design & Development Tools**: Blender, 3D CAD, Autodesk Inventor
 - **Management Tools**: Git, Jira
 
+#### 🔧 **Projects**
+- **Game Project**: [StreetBites Odyssey](https://mahersdesigns.com/#/streetbites) - A dynamic video game developed on the Unity platform, inspired by the game "Overcooked".
+
 #### 🌐 **Find Me Online**
 - **LinkedIn**: [Maher Salah](https://www.linkedin.com/in/maher-salah-4940271b9/)
 - **Portfolio**: [Maher's Designs](https://mahersdesigns.com/)
-- **Game Project**: [StreetBites Odyssey](https://mahersdesigns.com/#/streetbites) - A dynamic video game developed on the Unity platform, inspired by the game "Overcooked".
+
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/maher-salah-4940271b9/) or check out my [portfolio](https://mahersdesigns.com/).
