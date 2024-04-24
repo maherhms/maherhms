@@ -1,12 +1,14 @@
 ### Hi there, I'm Maher Hadj Salah 👋
 
-I'm a Computer Engineering graduate with a Master's degree from Hochschule für Technik und Wirtschaft, Berlin, specializing in both software and web development. Passionate about blending technology with user-centric designs to create immersive experiences, I'm continually pushing the boundaries of what's possible with code.
+I'm a Informatik Engineering graduate currently doing a Master's degree from Hochschule für Technik und Wirtschaft, Berlin, specializing in both software and embedded systems. Passionate about AR and VR technologies with user-centric designs to create immersive experiences, I'm continually pushing the boundaries of what's possible with code.
 
 #### 🚀 **What I Do**
 
 - **XR Unity Developer**: Currently engaged in the research project "Inspirer" at Centis HTW, Berlin, where I develop augmented reality applications and interfaces using C# and the Unity Engine, enhancing user interactions and efficiency.
+  [Inspirer website]([https://www.linkedin.com/in/maher-salah-4940271b9/](https://projekt-inspirer.de/))
   
 - **Web Application Developer**: Previously worked on the "SparePartAssist & RecoStation" project at Hochschule für Technik und Wirtschaft, Berlin, crafting web applications with Node.js and ReactJS, and championing Agile and Scrum methodologies to boost productivity.
+[Sparpartassist website]([https://www.linkedin.com/in/maher-salah-4940271b9/](https://sparepartassist.f2.htw-berlin.de/))
 
 - **SAP Development Intern**: Assisted in the development and implementation of SAP solutions at Regiocom SE, Berlin, focusing on optimizing document management processes.
 
