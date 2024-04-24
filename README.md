@@ -14,6 +14,7 @@ I'm a Informatik Engineering graduate currently doing a Master's degree from Hoc
 - **Programming Languages**: C#, Python, JavaScript, TypeScript
 - **Frameworks & Technologies**: .NET, Node.js, React.js, Three.js, Unity, Docker, Kubernetes, AWS
 - **Design & Development Tools**: Blender, 3D CAD, Autodesk Inventor
+- **Management Tools**: Git, Jira
 
 #### 🌐 **Find Me Online**
 - **LinkedIn**: [Maher Salah](https://www.linkedin.com/in/maher-salah-4940271b9/)
