@@ -1,4 +1,5 @@
 ### Hi there, I'm Maher Hadj Salah 👋
+**`Application Engineer/3D Designer`**
 
 I'm a Informatik Engineering graduate currently doing a Master's degree from Hochschule für Technik und Wirtschaft, Berlin, specializing in both software and embedded systems. Passionate about AR and VR technologies with user-centric designs to create immersive experiences, I'm continually pushing the boundaries of what's possible with code.
 
@@ -15,6 +16,23 @@ I'm a Informatik Engineering graduate currently doing a Master's degree from Hoc
 - **Frameworks & Technologies**: .NET, Node.js, React.js, Three.js, Unity, Docker, Kubernetes, AWS
 - **Design & Development Tools**: Blender, 3D CAD, Autodesk Inventor
 - **Management Tools**: Git, Jira
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
+<br />
+
+#
 
 #### 🔧 **Projects**
 - **Game Project**: [StreetBites Odyssey](https://mahersdesigns.com/#/streetbites) - A dynamic video game developed on the Unity platform, inspired by the game "Overcooked".
