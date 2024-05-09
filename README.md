@@ -1,5 +1,5 @@
 ### Hi there, I'm Maher Hadj Salah 👋
-**`Application Engineer/3D Designer`**
+**`Computer Engineer/3D Designer`**
 
 I'm a Informatik Engineering graduate currently doing a Master's degree from Hochschule für Technik und Wirtschaft, Berlin, specializing in both software and embedded systems. Passionate about AR and VR technologies with user-centric designs to create immersive experiences, I'm continually pushing the boundaries of what's possible with code.
 
