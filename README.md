@@ -1,44 +1,80 @@
-### Hi there, I'm Maher Hadj Salah 👋
-**`Computer Engineer/3D Designer`**
+# Hi, I'm Maher 👋
 
-I'm a Informatik Engineering graduate currently doing a Master's degree from Hochschule für Technik und Wirtschaft, Berlin, specializing in both software and embedded systems. Passionate about AR and VR technologies with user-centric designs to create immersive experiences, I'm continually pushing the boundaries of what's possible with code.
+**Computer Engineer · Oracle DBA · Game & Web Developer**
 
-#### 🚀 **What I Do**
+CS graduate from HTW Berlin with a wide technical background — from Unity game development and AR/VR research to 3D interior design and full stack web apps. Currently working as an Oracle DBA at ITDZ Berlin while expanding into C#/.NET and full stack web development.
 
-- **XR Unity Developer**: Currently engaged in the research project "Inspirer" at Centis HTW, Berlin, where I develop augmented reality applications and interfaces using C# and the Unity Engine, enhancing user interactions and efficiency.[Inspirer](https://projekt-inspirer.de/)
-  
-- **Web Application Developer**: Previously worked on the "SparePartAssist & RecoStation" project at Hochschule für Technik und Wirtschaft, Berlin, crafting web applications with Node.js and ReactJS, and championing Agile and Scrum methodologies to boost productivity. [Sparepartassist](https://sparepartassist.f2.htw-berlin.de/)
+I like building things that are actually useful and look good doing it.
 
-- **SAP Development Intern**: Assisted in the development and implementation of SAP solutions at Regiocom SE, Berlin, focusing on optimizing document management processes.
+---
 
-#### 🔧 **Technologies & Tools**
-- **Programming Languages**: C#, Python, JavaScript, TypeScript
-- **Frameworks & Technologies**: .NET, Node.js, React.js, Three.js, Unity, Docker, Kubernetes, AWS
-- **Design & Development Tools**: Blender, 3D CAD, Autodesk Inventor
-- **Management Tools**: Git, Jira
+## 👨‍💻 Currently
 
-### 🧰 Languages and Tools
+- 🗄️ **Linux Oracle DBA — ITDZ Berlin** — installing, patching, managing databases and contact person for Ansible automation for our department
+- 🏗️ **Building** [FloorPlan Rendering Application](https://github.com/maherhms/FloorPlan-Rendering-Application) — a full stack web app in React + TypeScript
+- 📚 **Learning** — Full stack development with React, Node.js, PostgreSQL. Next: ASP.NET Core
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
-<br />
+---
 
-#
+## 💼 Experience
 
-#### 🔧 **Projects**
-- **Game Project**: [StreetBites Odyssey](https://mahersdesigns.com/#/streetbites) - A dynamic video game developed on the Unity platform, inspired by the game "Overcooked".
+**Linux Oracle DBA — ITDZ Berlin**
+Installing, patching and managing Oracle databases on Linux infrastructure. Contact person for Ansible automation within the department.
 
-#### 🌐 **Find Me Online**
-- **LinkedIn**: [Maher Salah](https://www.linkedin.com/in/maher-salah-4940271b9/)
-- **Portfolio**: [Maher's Designs](https://mahersdesigns.com/)
+**XR Unity Developer — Centis HTW Berlin**
+Developed augmented reality applications and interfaces using C# and Unity as part of the [Inspirer](https://projekt-inspirer.de/) research project at HTW Berlin. Focused on user interaction design and immersive experience development in AR/VR.
 
+**Web Application Developer — HTW Berlin**
+Built web applications for the [SparePartAssist & RecoStation](https://sparepartassist.f2.htw-berlin.de/) project using Node.js and React. Worked in an Agile/Scrum environment delivering real production software within a university research context.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/maher-salah-4940271b9/) or check out my [portfolio](https://mahersdesigns.com/).
+**SAP Development Intern — Regiocom SE, Berlin**
+Assisted in development and implementation of SAP solutions, focusing on optimizing document management processes.
+
+**3D Interior Design Freelancer — Fiverr**
+3 years of freelance work delivering 3D interior design renders for international clients. Built two Blender Python addons to automate repetitive rendering tasks across multiple camera angles.
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [FloorPlan Rendering App](https://github.com/maherhms/FloorPlan-Rendering-Application) | Full stack floor plan tool — in progress | React, TypeScript |
+| [StreetBites Odyssey](https://mahersdesigns.com/#/streetbites) | Overcooked-inspired game with cooking, cutting, oil slipping and delivery mechanics | Unity, C# |
+| [Image Classification CNN](https://github.com/maherhms/ImageClassification_NN) | Binary image classifier with full training pipeline, early stopping, TensorBoard | TensorFlow, Python |
+| [Blender Addons](https://github.com/maherhms/visualize---Blender-Addons) | Two productivity addons built for real freelance 3D work — multi-camera render and camera animation | Python, Blender API |
+
+---
+
+## 🧰 Technologies
+
+**Languages**
+C# · Python · JavaScript · TypeScript · SQL
+
+**Game & 3D**
+Unity · Blender · Blender Python API
+
+**Web**
+React · Node.js · Three.js · Tailwind CSS
+
+**Database**
+Oracle · PostgreSQL
+
+**Tools**
+Git · Jira
+
+---
+
+## 🎓 Education
+
+**M.Eng. Computer Engineering — HTW Berlin** *(paused — 1 semester completed)*
+
+**B.Sc. Ingenieur Informatik — HTW Berlin**
+Focus on software engineering and embedded systems.
+
+---
+
+## 🌐 Find Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mahersdesigns.com-blue?style=flat-square)](https://mahersdesigns.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maher%20Salah-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maher-salah-4940271b9/)
