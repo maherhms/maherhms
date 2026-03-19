@@ -67,7 +67,7 @@ Git · Jira
 
 ## 🎓 Education
 
-**M.Eng. Computer Engineering — HTW Berlin** *(paused — 1 semester completed)*
+**M.Eng. Computer Engineering — HTW Berlin**
 
 **B.Sc. Ingenieur Informatik — HTW Berlin**
 Focus on software engineering and embedded systems.
