@@ -1,67 +1,95 @@
 # Hi, I'm Maher 👋
 
-**Computer Engineer · Oracle DBA · Game & Web Developer**
+**.NET Backend Developer · Oracle DBA · C# Engineer**
 
-CS graduate from HTW Berlin with a wide technical background — from Unity game development and AR/VR research to 3D interior design and full stack web apps. Currently working as an Oracle DBA at ITDZ Berlin while expanding into C#/.NET and full stack web development.
+Computer Engineer based in Berlin with a strong background in backend systems, databases, and C# development.  
+Currently working as a Linux Oracle DBA at ITDZ Berlin while specializing in **ASP.NET Core**, **EF Core**, and **SQL Server**.
 
-I like building things that are actually useful and look good doing it.
+I build clean, scalable, and production‑ready applications — with a strong focus on reliability, maintainability, and real-world use cases.
 
 ---
 
-## 👨‍💻 Currently
+## 🔥 Focus Areas
 
-- 🗄️ **Linux Oracle DBA — ITDZ Berlin** — installing, patching, managing databases and contact person for Ansible automation for our department
-- 🏗️ **Building** [FloorPlan Rendering Application](https://github.com/maherhms/FloorPlan-Rendering-Application) — a full stack web app in React + TypeScript
-- 📚 **Learning** — Full stack development with React, Node.js, PostgreSQL. Next: ASP.NET Core
+- 🧩 **.NET Backend Development** — ASP.NET Core, EF Core, SQL Server, Clean Architecture  
+- 🗄️ **Linux Oracle DBA @ ITDZ Berlin** — enterprise databases, automation, performance tuning  
+- 🏗️ **Current Projects**  
+  - [InventoryControlSystem_MVC](https://github.com/maherhms/InventoryControlSystem_MVC) — ASP.NET Core MVC (.NET 8) + EF Core  
+  - [FloorPlan Rendering App](https://github.com/maherhms/FloorPlan-Rendering-Application) — React + TypeScript  
+- 📚 **Learning Next** — Blazor, Azure, Dockerized .NET microservices
 
 ---
 
 ## 💼 Experience
 
-**Linux Oracle DBA — ITDZ Berlin**
-Installing, patching and managing Oracle databases on Linux infrastructure. Contact person for Ansible automation within the department.
+### **Linux Oracle DBA — ITDZ Berlin**
+- Installing, patching and managing Oracle databases on Linux infrastructure. 
+- Ansible automation for provisioning, installation, and automated patching of Oracle databases on **RHEL 8 & RHEL 9** .
+- Standardizing deployment workflows for consistent and reproducible environments  
+- monitoring and maintenance of enterprise database systems.
 
-**XR Unity Developer — Centis HTW Berlin**
-Developed augmented reality applications and interfaces using C# and Unity as part of the [Inspirer](https://projekt-inspirer.de/) research project at HTW Berlin. Focused on user interaction design and immersive experience development in AR/VR.
+### **XR Unity Developer — Centis HTW Berlin** [Inspirer](https://projekt-inspirer.de/)
+- Developed AR/VR applications using C# and Unity for the *Inspirer* research project  
+- Implemented real-time interaction systems and modular components  
+- Designed immersive user interactions and prototype features
 
-**Web Application Developer — HTW Berlin**
-Built web applications for the [SparePartAssist & RecoStation](https://sparepartassist.f2.htw-berlin.de/) project using Node.js and React. Worked in an Agile/Scrum environment delivering real production software within a university research context.
+### **Web Application Developer — HTW Berlin** [SparePartAssist & RecoStation](https://sparepartassist.f2.htw-berlin.de/)
+- Built React-based web applications for the *SparePartAssist & RecoStation* project  
+- Integrated REST APIs and optimized data flow  
+- Delivered production-ready features in an Agile/Scrum environment  
 
-**SAP Development Intern — Regiocom SE, Berlin**
-Assisted in development and implementation of SAP solutions, focusing on optimizing document management processes.
+### **SAP Development Intern — Regiocom SE, Berlin**
+- Supported SAP development and optimized document management workflows
 
-**3D Interior Design Freelancer — Fiverr**
-3 years of freelance work delivering 3D interior design renders for international clients. Built two Blender Python addons to automate repetitive rendering tasks across multiple camera angles.
+### **3D Interior Design Freelancer — Fiverr**
+- Delivered 3D interior renders for international clients  
+- Developed two Blender Python addons to automate multi-camera rendering and animation workflows  .
 
 ---
 
 ## 🚀 Projects
 
 | Project | Description | Tech |
-|---------|-------------|------|
-| [FloorPlan Rendering App](https://github.com/maherhms/FloorPlan-Rendering-Application) | Full stack floor plan tool — in progress | React, TypeScript |
-| [StreetBites Odyssey](https://mahersdesigns.com/#/streetbites) | Overcooked-inspired game with cooking, cutting, oil slipping and delivery mechanics | Unity, C# |
-| [Image Classification CNN](https://github.com/maherhms/ImageClassification_NN) | Binary image classifier with full training pipeline, early stopping, TensorBoard | TensorFlow, Python |
-| [Blender Addons](https://github.com/maherhms/visualize---Blender-Addons) | Two productivity addons built for real freelance 3D work — multi-camera render and camera animation | Python, Blender API |
-
+|--------|-------------|------|
+| [InventoryControlSystem_MVC](https://github.com/maherhms/InventoryControlSystem_MVC) | Inventory system built with ASP.NET Core MVC (.NET 8), EF Core, SQL Server | C#, .NET 8, EF Core, SQL Server |
+| [VirusBuster](https://github.com/maherhms/Virusbuster) | 2D arcade game prototype built with MonoGame, structured for scalability | C#, MonoGame |
+| [Admin Dashboard (Frontend)](https://github.com/maherhms/Admin-Dashboard-Frontend) | Admin dashboard with role-based UI and real-time analytics | Next.js, React, TypeScript, Refine, ShadCN, Cloudinary |
+| [Admin Dashboard (Backend)](https://github.com/maherhms/Admin-Dashboard-Backend) | Node.js backend with NeonDB, Drizzle ORM, Better-Auth, Arcjet | Node.js, Express, Drizzle ORM, NeonDB, Cloudinary |
+| [FloorPlan Rendering App](https://github.com/maherhms/FloorPlan-Rendering-Application) | AI-powered floor plan → 3D render tool | React, TypeScript, Tailwind, Puter.js |
+| [Image Classification CNN](https://github.com/maherhms/ImageClassification_NN) | CNN classifier with full training pipeline | Python, TensorFlow, Keras, NumPy |
+| [Blender Addons](https://github.com/maherhms/visualize---Blender-Addons) | Productivity addons for freelance 3D workflows | Python, Blender API |
+| [StreetBites Odyssey]() | Overcooked-style cooking game | Unity, C# |
 ---
 
 ## 🧰 Technologies
 
-**Languages**
-C# · Python · JavaScript · TypeScript · SQL
+### **Backend & Databases**
+- **C#**, ASP.NET Core, EF Core  
+- SQL Server, Oracle, PostgreSQL
+- Node.js, Express  
+- REST APIs  
+- Drizzle ORM  
 
-**Game & 3D**
-Unity · Blender · Blender Python API
+### **Frontend**
+- Razor ,React, TypeScript  
+- Tailwind CSS, ShadCN  
+- Refine Framework  
+- Three.js  
 
-**Web**
-React · Node.js · Three.js · Tailwind CSS
+### **Game & Graphics**
+- Unity (C#)  
+- MonoGame  
+- Blender Python API  
 
-**Database**
-Oracle · PostgreSQL
+### **AI & Data**
+- TensorFlow, Keras  
+- NumPy, OpenCV  
 
-**Tools**
-Git · Jira
+### **DevOps & Tools**
+- Linux (RHEL 8/9)  
+- Ansible (automation of Oracle DB deployments & patching)  
+- Docker  
+- Git, Jira  
 
 ---
 
@@ -76,5 +104,4 @@ Focus on software engineering and embedded systems.
 
 ## 🌐 Find Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mahersdesigns.com-blue?style=flat-square)](https://mahersdesigns.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maher%20Salah-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maher-salah-4940271b9/)
