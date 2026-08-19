@@ -12,10 +12,7 @@ I build clean, scalable, and production‑ready applications — with a strong f
 ## 🔥 Focus Areas
 
 - 🧩 **.NET Backend Development** — ASP.NET Core, EF Core, SQL Server, Clean Architecture  
-- 🗄️ **Linux Oracle DBA @ ITDZ Berlin** — enterprise databases, automation, performance tuning  
-- 🏗️ **Current Projects**  
-  - [InventoryControlSystem_MVC](https://github.com/maherhms/InventoryControlSystem_MVC) — ASP.NET Core MVC (.NET 8) + EF Core  
-  - [FloorPlan Rendering App](https://github.com/maherhms/FloorPlan-Rendering-Application) — React + TypeScript  
+- 🗄️ **Linux Oracle DBA @ ITDZ Berlin** — enterprise databases, automation, performance tuning
 - 📚 **Learning Next** — Blazor, Azure, Dockerized .NET microservices
 
 ---
@@ -52,13 +49,11 @@ I build clean, scalable, and production‑ready applications — with a strong f
 | Project | Description | Tech |
 |--------|-------------|------|
 | [InventoryControlSystem_MVC](https://github.com/maherhms/InventoryControlSystem_MVC) | Inventory system built with ASP.NET Core MVC (.NET 8), EF Core, SQL Server | C#, .NET 8, EF Core, SQL Server |
-| [VirusBuster](https://github.com/maherhms/Virusbuster) | 2D arcade game prototype built with MonoGame, structured for scalability | C#, MonoGame |
 | [Admin Dashboard (Frontend)](https://github.com/maherhms/Admin-Dashboard-Frontend) | Admin dashboard with role-based UI and real-time analytics | Next.js, React, TypeScript, Refine, ShadCN, Cloudinary |
 | [Admin Dashboard (Backend)](https://github.com/maherhms/Admin-Dashboard-Backend) | Node.js backend with NeonDB, Drizzle ORM, Better-Auth, Arcjet | Node.js, Express, Drizzle ORM, NeonDB, Cloudinary |
 | [FloorPlan Rendering App](https://github.com/maherhms/FloorPlan-Rendering-Application) | AI-powered floor plan → 3D render tool | React, TypeScript, Tailwind, Puter.js |
 | [Image Classification CNN](https://github.com/maherhms/ImageClassification_NN) | CNN classifier with full training pipeline | Python, TensorFlow, Keras, NumPy |
 | [Blender Addons](https://github.com/maherhms/visualize---Blender-Addons) | Productivity addons for freelance 3D workflows | Python, Blender API |
-| [StreetBites Odyssey]() | Overcooked-style cooking game | Unity, C# |
 ---
 
 ## 🧰 Technologies
@@ -79,7 +74,7 @@ I build clean, scalable, and production‑ready applications — with a strong f
 ### **Game & Graphics**
 - Unity (C#)  
 - MonoGame  
-- Blender Python API  
+- Blender 
 
 ### **AI & Data**
 - TensorFlow, Keras  
